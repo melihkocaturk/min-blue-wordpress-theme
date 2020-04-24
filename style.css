@@ -1,0 +1,47 @@
+/*
+Theme Name: Min Blue
+Theme URI: https://github.com/melihkocaturk/min-blue
+Author: Melih Kocatürk
+Author URI: http://www.melihkocaturk.com/
+Description: Bootstrap 4 minimal clean blog theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: minblue
+Tags: blue, bootstrap, minimal, clean, blog, two-columns, right-sidebar
+*/
+
+.jumbotron-heading {
+  padding-top: 15rem !important
+}
+
+.entry-footer {
+  font-size: 0.8em
+}
+
+.card ul {
+  padding-left: 1rem !important;
+  margin-bottom: 0
+}
+
+.comment-list,
+.comment-list .children {
+  list-style: none
+}
+
+.comment-author .avatar {
+  margin-left: -60px;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%
+}
+
+.comment-body {
+  margin-bottom: 2rem !important;
+  margin-left: 60px
+}
+
+.comment-meta {
+  font-size: 0.8em
+}
